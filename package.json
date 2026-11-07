@@ -10,6 +10,6 @@
   "description": "",
   "dependencies": {
     "colors": "^1.4.0",
-    "figlet": "^1.8.2"
+    "figlet": "^1.11.3"
   }
 }
